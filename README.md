@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Erni Widyawati as data scientist enthusiast
 
 <!--
 **ErniWidyawati/ErniWidyawati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
